@@ -179,7 +179,6 @@ html {
     max-height: 100%;
     font-size: 62.5%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    font-shadow: 0.3px 0.3px 0.3px lightgrey;
 }
 
 body {
